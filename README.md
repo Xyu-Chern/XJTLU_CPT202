@@ -1,7 +1,7 @@
 # XJTLU_CPT202
 ----
 ## Breif Introduction
-- This is a repository about [XJTLU](https://www.xjtlu.edu.cn/zh) lesson : CPT202 SPRING 24-25 (Automata)
+- This is a repository about [XJTLU](https://www.xjtlu.edu.cn/zh) lesson : CPT202 SPRING 24-25 (Software Engineering)
 - Language : English , Chinese
 ----
 ## How to use this repository ?
